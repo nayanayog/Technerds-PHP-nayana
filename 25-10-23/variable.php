@@ -5,4 +5,5 @@ $type=TRUE;
 $name="nayana";
 var_dump($b);
 echo $a+$b;
+echo "<br>"
 ?>
